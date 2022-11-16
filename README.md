@@ -11,4 +11,5 @@ render.py require three arguments:
 * IMU Dataset (string)
 * Projection Type (string) - 'pers' or 'orth'
 * Mode (string) - 'gyro', 'acc', or 'mag'
+
 To execute render.py run *python render.py dataset projection mode*
